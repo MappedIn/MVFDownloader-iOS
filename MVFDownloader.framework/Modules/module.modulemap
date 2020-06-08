@@ -1,0 +1,11 @@
+framework module MVFDownloader {
+  umbrella header "MVFDownloader.h"
+
+  export *
+  module * { export * }
+}
+
+module MVFDownloader.Swift {
+    header "MVFDownloader-Swift.h"
+    requires objc
+}
