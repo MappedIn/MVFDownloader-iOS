@@ -17,5 +17,10 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/Mappedin/MVFDownloader-iOS.git', :tag => s.version.to_s }
   s.source_files     = 'MVFDownloader.framework/Headers/*.{h}'
   s.ios.deployment_target = '8.0'
-  s.dependency 'Zip', '1.1'
-end
+  s.library      = 'MVFDownloader'
+  s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/MVFDownloader/"' }
+  s.requires_arc = true
+  s.vendored_frameworks = 'MVFDownloader.framework'
+  s.preserve_paths =  'MVFDownloader.framework/*'
+  s.dependency 'Zip', '~> 1.1'
+  end
