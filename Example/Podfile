@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MVFDownloader_Tests' do
+  pod 'MVFDownloader', :path => '../'
+  
+  
+end

@@ -1,0 +1,6 @@
+framework module MVFDownloader {
+  umbrella header "MVFDownloader-umbrella.h"
+
+  export *
+  module * { export * }
+}

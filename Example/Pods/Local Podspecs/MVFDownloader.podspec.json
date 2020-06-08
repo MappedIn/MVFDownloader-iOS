@@ -1,0 +1,22 @@
+{
+  "name": "MVFDownloader",
+  "version": "0.1.0",
+  "summary": "A short description of MVFDownloader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/daniellewang-mi/MVFDownloader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "daniellewang-mi": "danielle.wang@mappedin.ca"
+  },
+  "source": {
+    "git": "https://github.com/daniellewang-mi/MVFDownloader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MVFDownloader/Classes/**/*"
+}

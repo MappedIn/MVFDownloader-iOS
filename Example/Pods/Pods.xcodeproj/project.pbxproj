@@ -1,0 +1,602 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0BFFECE465BF4E14F6387793728DA15D /* Pods-MVFDownloader_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BE0091E9FED53FBE123D2C57C2F7E1CC /* Pods-MVFDownloader_Tests-dummy.m */; };
+		20B14AB51AD481F72E6A8E586A759221 /* Pods-MVFDownloader_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E45DEAF667293C4B4DEE2F38672DC76 /* Pods-MVFDownloader_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3E1F0F2F4DC1281C98F6F93FE65724DB /* MVFDownloader-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7B063B6029FF5AD7FBA1882A1B6548AC /* MVFDownloader-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3FBDFB826382BC48F685C100AC8E0992 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84A4F20FFE338E4B5F1B1D3E7AB871 /* ReplaceMe.swift */; };
+		5EADFA8C9764DC10B7FF6585E9A55577 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		93A33E5F753D993D0E34DA08E9B9A6A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		E73CA34C012F0A91E09611A295185E50 /* MVFDownloader-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C660170D0062223CF6A41CC2412F31C4 /* MVFDownloader-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E478A69E3C2232FD8F3419681C638C78 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5BF7EECF9DFE27F2B09EB480E1F5A038;
+			remoteInfo = MVFDownloader;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0623BD0CD960ECF1EFBB3179CAA7461B /* MVFDownloader.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MVFDownloader.debug.xcconfig; sourceTree = "<group>"; };
+		06319000FB4FEC2A4018669E18C8D097 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		0E45DEAF667293C4B4DEE2F38672DC76 /* Pods-MVFDownloader_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MVFDownloader_Tests-umbrella.h"; sourceTree = "<group>"; };
+		228C80670C381D595AF0444C967A7D2D /* MVFDownloader.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MVFDownloader.modulemap; sourceTree = "<group>"; };
+		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		420EDB03B9936C0F07E99ABE7CF02B8E /* Pods-MVFDownloader_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MVFDownloader_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		4C84A4F20FFE338E4B5F1B1D3E7AB871 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = MVFDownloader/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		4CCF2833B7108623E91664128C4AA566 /* Pods-MVFDownloader_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MVFDownloader_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		518322153AEFF03BAF97322C86E7115C /* MVFDownloader-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MVFDownloader-Info.plist"; sourceTree = "<group>"; };
+		52E3427A1F9F70CD8494F59B76084568 /* Pods-MVFDownloader_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MVFDownloader_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		531735F09791912F3D191DFF09256AEC /* MVFDownloader.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MVFDownloader.framework; path = MVFDownloader.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		64E485920B3CC0ECAD31EBED188E006E /* MVFDownloader.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MVFDownloader.release.xcconfig; sourceTree = "<group>"; };
+		74F8390D72DD40EEF20CD61C907964B1 /* Pods-MVFDownloader_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MVFDownloader_Tests.modulemap"; sourceTree = "<group>"; };
+		76A6D1C08E9A208AC31C8A11CD441538 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		7B063B6029FF5AD7FBA1882A1B6548AC /* MVFDownloader-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MVFDownloader-umbrella.h"; sourceTree = "<group>"; };
+		8D49F382B19E693460150B6EC1555FFC /* MVFDownloader.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MVFDownloader.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B87B2A8D24E3EDD11B4DE985BDD43213 /* Pods-MVFDownloader_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MVFDownloader_Tests-Info.plist"; sourceTree = "<group>"; };
+		BE0091E9FED53FBE123D2C57C2F7E1CC /* Pods-MVFDownloader_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MVFDownloader_Tests-dummy.m"; sourceTree = "<group>"; };
+		C660170D0062223CF6A41CC2412F31C4 /* MVFDownloader-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MVFDownloader-dummy.m"; sourceTree = "<group>"; };
+		CBCC1D567DD1F6469D0AD7328ED35898 /* Pods_MVFDownloader_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MVFDownloader_Tests.framework; path = "Pods-MVFDownloader_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D59884F285C4D6F6EA9F6CCF89ED0E60 /* Pods-MVFDownloader_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MVFDownloader_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		EF127552BB75E96002A19A318282B154 /* Pods-MVFDownloader_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MVFDownloader_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		F2AAE24ED5126BD90A22386D257D26F6 /* MVFDownloader-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MVFDownloader-prefix.pch"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F464345F31B5E00AA11077B299C8DCB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5EADFA8C9764DC10B7FF6585E9A55577 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		71261E569ED20422AE93EC516E0E17EA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93A33E5F753D993D0E34DA08E9B9A6A2 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0560E4E87EAA439CB10CDD7C568C98F6 /* MVFDownloader */ = {
+			isa = PBXGroup;
+			children = (
+				4C84A4F20FFE338E4B5F1B1D3E7AB871 /* ReplaceMe.swift */,
+				A5BDD0B20FF7467D7E054CAD97CFF588 /* Pod */,
+				C05661FFD1B3C55C46CEA74DC8BFE657 /* Support Files */,
+			);
+			name = MVFDownloader;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		2FF8CB5CA6F281B6CF5CB52842B4C25E /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0560E4E87EAA439CB10CDD7C568C98F6 /* MVFDownloader */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		932BBA63C9FFBD24F156965AEA17F52E /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				9F8B97A794403AD1FB39F88E8C7B795E /* Pods-MVFDownloader_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		9F8B97A794403AD1FB39F88E8C7B795E /* Pods-MVFDownloader_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				74F8390D72DD40EEF20CD61C907964B1 /* Pods-MVFDownloader_Tests.modulemap */,
+				D59884F285C4D6F6EA9F6CCF89ED0E60 /* Pods-MVFDownloader_Tests-acknowledgements.markdown */,
+				4CCF2833B7108623E91664128C4AA566 /* Pods-MVFDownloader_Tests-acknowledgements.plist */,
+				BE0091E9FED53FBE123D2C57C2F7E1CC /* Pods-MVFDownloader_Tests-dummy.m */,
+				420EDB03B9936C0F07E99ABE7CF02B8E /* Pods-MVFDownloader_Tests-frameworks.sh */,
+				B87B2A8D24E3EDD11B4DE985BDD43213 /* Pods-MVFDownloader_Tests-Info.plist */,
+				0E45DEAF667293C4B4DEE2F38672DC76 /* Pods-MVFDownloader_Tests-umbrella.h */,
+				EF127552BB75E96002A19A318282B154 /* Pods-MVFDownloader_Tests.debug.xcconfig */,
+				52E3427A1F9F70CD8494F59B76084568 /* Pods-MVFDownloader_Tests.release.xcconfig */,
+			);
+			name = "Pods-MVFDownloader_Tests";
+			path = "Target Support Files/Pods-MVFDownloader_Tests";
+			sourceTree = "<group>";
+		};
+		A5BDD0B20FF7467D7E054CAD97CFF588 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				76A6D1C08E9A208AC31C8A11CD441538 /* LICENSE */,
+				8D49F382B19E693460150B6EC1555FFC /* MVFDownloader.podspec */,
+				06319000FB4FEC2A4018669E18C8D097 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		C05661FFD1B3C55C46CEA74DC8BFE657 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				228C80670C381D595AF0444C967A7D2D /* MVFDownloader.modulemap */,
+				C660170D0062223CF6A41CC2412F31C4 /* MVFDownloader-dummy.m */,
+				518322153AEFF03BAF97322C86E7115C /* MVFDownloader-Info.plist */,
+				F2AAE24ED5126BD90A22386D257D26F6 /* MVFDownloader-prefix.pch */,
+				7B063B6029FF5AD7FBA1882A1B6548AC /* MVFDownloader-umbrella.h */,
+				0623BD0CD960ECF1EFBB3179CAA7461B /* MVFDownloader.debug.xcconfig */,
+				64E485920B3CC0ECAD31EBED188E006E /* MVFDownloader.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MVFDownloader";
+			sourceTree = "<group>";
+		};
+		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		C8515A53E59F9A0266B210B3C55DCCD2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				531735F09791912F3D191DFF09256AEC /* MVFDownloader.framework */,
+				CBCC1D567DD1F6469D0AD7328ED35898 /* Pods_MVFDownloader_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				2FF8CB5CA6F281B6CF5CB52842B4C25E /* Development Pods */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				C8515A53E59F9A0266B210B3C55DCCD2 /* Products */,
+				932BBA63C9FFBD24F156965AEA17F52E /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		02A523663A043CE19FB8AFCCF3BA24CB /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E1F0F2F4DC1281C98F6F93FE65724DB /* MVFDownloader-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE5ECEA54931E7825E1D0F749A4E752C /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				20B14AB51AD481F72E6A8E586A759221 /* Pods-MVFDownloader_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		5BF7EECF9DFE27F2B09EB480E1F5A038 /* MVFDownloader */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F8497C68EFFB1BA17BDA515812D8436B /* Build configuration list for PBXNativeTarget "MVFDownloader" */;
+			buildPhases = (
+				02A523663A043CE19FB8AFCCF3BA24CB /* Headers */,
+				F489DF2D415B55CBF90C0B464A161AE0 /* Sources */,
+				3F464345F31B5E00AA11077B299C8DCB /* Frameworks */,
+				630D445B5C9D413217EB7190A182CCD6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MVFDownloader;
+			productName = MVFDownloader;
+			productReference = 531735F09791912F3D191DFF09256AEC /* MVFDownloader.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		F769D44167930D5E4DEFD260FB04E940 /* Pods-MVFDownloader_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C684B6D20EDCFFEC0E6723D4AD4E26F6 /* Build configuration list for PBXNativeTarget "Pods-MVFDownloader_Tests" */;
+			buildPhases = (
+				DE5ECEA54931E7825E1D0F749A4E752C /* Headers */,
+				81F55513A8924EF8A49ED12F4500375B /* Sources */,
+				71261E569ED20422AE93EC516E0E17EA /* Frameworks */,
+				79FB5741D323BC24170EE691BB0CDA82 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7C5C5FDBA735DE7B199D75DE202DC5B7 /* PBXTargetDependency */,
+			);
+			name = "Pods-MVFDownloader_Tests";
+			productName = "Pods-MVFDownloader_Tests";
+			productReference = CBCC1D567DD1F6469D0AD7328ED35898 /* Pods_MVFDownloader_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = C8515A53E59F9A0266B210B3C55DCCD2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5BF7EECF9DFE27F2B09EB480E1F5A038 /* MVFDownloader */,
+				F769D44167930D5E4DEFD260FB04E940 /* Pods-MVFDownloader_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		630D445B5C9D413217EB7190A182CCD6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79FB5741D323BC24170EE691BB0CDA82 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		81F55513A8924EF8A49ED12F4500375B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0BFFECE465BF4E14F6387793728DA15D /* Pods-MVFDownloader_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F489DF2D415B55CBF90C0B464A161AE0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E73CA34C012F0A91E09611A295185E50 /* MVFDownloader-dummy.m in Sources */,
+				3FBDFB826382BC48F685C100AC8E0992 /* ReplaceMe.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7C5C5FDBA735DE7B199D75DE202DC5B7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MVFDownloader;
+			target = 5BF7EECF9DFE27F2B09EB480E1F5A038 /* MVFDownloader */;
+			targetProxy = E478A69E3C2232FD8F3419681C638C78 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		12AD267B7779FBECC7CB79BB71B57D1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EF127552BB75E96002A19A318282B154 /* Pods-MVFDownloader_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MVFDownloader_Tests/Pods-MVFDownloader_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MVFDownloader_Tests/Pods-MVFDownloader_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		402624E783D4012839A3036EFCF3536C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 64E485920B3CC0ECAD31EBED188E006E /* MVFDownloader.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MVFDownloader/MVFDownloader-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MVFDownloader/MVFDownloader-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MVFDownloader/MVFDownloader.modulemap";
+				PRODUCT_MODULE_NAME = MVFDownloader;
+				PRODUCT_NAME = MVFDownloader;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		B0087CB4594321EF41619F3181FE120E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		D26DB56E8D298CC495B1C70215503375 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0623BD0CD960ECF1EFBB3179CAA7461B /* MVFDownloader.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MVFDownloader/MVFDownloader-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MVFDownloader/MVFDownloader-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MVFDownloader/MVFDownloader.modulemap";
+				PRODUCT_MODULE_NAME = MVFDownloader;
+				PRODUCT_NAME = MVFDownloader;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		EF89292F544AB28E9BAEBD5223B6980F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 52E3427A1F9F70CD8494F59B76084568 /* Pods-MVFDownloader_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MVFDownloader_Tests/Pods-MVFDownloader_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MVFDownloader_Tests/Pods-MVFDownloader_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */,
+				B0087CB4594321EF41619F3181FE120E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C684B6D20EDCFFEC0E6723D4AD4E26F6 /* Build configuration list for PBXNativeTarget "Pods-MVFDownloader_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12AD267B7779FBECC7CB79BB71B57D1F /* Debug */,
+				EF89292F544AB28E9BAEBD5223B6980F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F8497C68EFFB1BA17BDA515812D8436B /* Build configuration list for PBXNativeTarget "MVFDownloader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D26DB56E8D298CC495B1C70215503375 /* Debug */,
+				402624E783D4012839A3036EFCF3536C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}
