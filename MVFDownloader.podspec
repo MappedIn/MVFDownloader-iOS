@@ -13,4 +13,5 @@ Pod::Spec.new do |s|
   s.source_files = 'MVFDownloader.framework/Headers/*.{h}'
   s.vendored_frameworks = 'MVFDownloader.framework'
   s.public_header_files = 'MVFDownloader.framework/Headers/*.{h}'
+  s.dependency 'Zip', '1.1.0'
 end
