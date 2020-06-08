@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Danielle Wang' => 'danielle.wang@mappedin.ca' }
   s.source           = { :git => 'https://github.com/Mappedin/MVFDownloader-iOS.git', :tag => s.version.to_s }
-
+  s.source_files     = 'MVFDownloader.framework/Headers/*.{h}'
   s.ios.deployment_target = '8.0'
   s.dependency 'Zip', '1.1'
   s.source_files = 'MVFDownloader/Classes/**/*'
