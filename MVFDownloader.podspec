@@ -18,5 +18,4 @@ Pod::Spec.new do |s|
   s.source_files     = 'MVFDownloader.framework/Headers/*.{h}'
   s.ios.deployment_target = '8.0'
   s.dependency 'Zip', '1.1'
-  s.source_files = 'MVFDownloader/Classes/**/*'
 end
