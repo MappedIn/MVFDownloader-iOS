@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "MVFDownloader-iOS"
+  s.name         = "MVFDownloader"
   s.version      = "1.0.0"
   s.summary      = "This is a library to download mvf files"
   s.homepage     = "http://mappedin.com"
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.library      = 'z'
   s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/MVFDownloader/"' }
   s.requires_arc = true
-  s.source_files = 'MVFDownloader-iOS.xcframework/Headers/*.{h}'
-  s.vendored_frameworks = 'MVFDownloader-iOS.xcframework'
+  s.source_files = 'MVFDownloader.xcframework/Headers/*.{h}'
+  s.vendored_frameworks = 'MVFDownloader.xcframework'
   s.dependency 'Zip', '1.1.0'
 end
