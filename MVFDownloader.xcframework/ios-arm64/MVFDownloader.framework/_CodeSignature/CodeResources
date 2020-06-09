@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/Zip.framework/Zip</key>
 		<data>
-		KNP27e2LkP79PXdnhJ+3sfFtbTo=
+		OxvIflEHiuXLkIa/KQH2OBq1uqg=
 		</data>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -30,27 +30,35 @@
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		8EYHSfD5IcBao9GHeGbSPoilJfw=
+		QCBAT4mfN3s9d9vgJU1TimoNVig=
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		8EYHSfD5IcBao9GHeGbSPoilJfw=
+		QCBAT4mfN3s9d9vgJU1TimoNVig=
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
 		C098SepP5UZaqyC+2VEQR9Gcc+4=
 		</data>
+		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		KMzTJv7XgayqUPTicgZveRqkAAk=
+		</data>
 		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		rUYfHjPzYraSl3WcnU+FxGneU8c=
+		u39Hq5Mgc0eEWCHSHY2i24Su0CY=
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftdoc</key>
 		<data>
 		C098SepP5UZaqyC+2VEQR9Gcc+4=
 		</data>
+		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		KMzTJv7XgayqUPTicgZveRqkAAk=
+		</data>
 		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		rUYfHjPzYraSl3WcnU+FxGneU8c=
+		u39Hq5Mgc0eEWCHSHY2i24Su0CY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9J4Uek/ePcKFR4taG+Tmlp2yZ5Z71vpeoJN55w5V3fU=
+			lU0cagb27cBKhO+zUaa6t/bdF69g1ArnsIveOm1zV0E=
 			</data>
 		</dict>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
@@ -98,14 +106,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qd8zv07uRgBNvO4fyTikkPfo7rxmsun8GLNRvEiU0NM=
+			7tX2f010lsx2bpnzPPNr8TooBtjEF+6Xg6EihT44iPE=
 			</data>
 		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qd8zv07uRgBNvO4fyTikkPfo7rxmsun8GLNRvEiU0NM=
+			7tX2f010lsx2bpnzPPNr8TooBtjEF+6Xg6EihT44iPE=
 			</data>
 		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -115,11 +123,18 @@
 			5jRLnvNTOkedKWFbyOHePKz0na0/pf+nOHTe1voqymA=
 			</data>
 		</dict>
+		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b0lgyP0lw6+naP/1pjDcpZ5Paij3k/iXCzCANmKQKKg=
+			</data>
+		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Q/GLEQC+LwGi4gj/gCjlL95HpBIF0+Vl5XH8AQzSPc=
+			jCOI5vAsOavj/BdflfhdtDASUkOXuDE8JL1I4lknvMI=
 			</data>
 		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftdoc</key>
@@ -129,11 +144,18 @@
 			5jRLnvNTOkedKWFbyOHePKz0na0/pf+nOHTe1voqymA=
 			</data>
 		</dict>
+		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b0lgyP0lw6+naP/1pjDcpZ5Paij3k/iXCzCANmKQKKg=
+			</data>
+		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Q/GLEQC+LwGi4gj/gCjlL95HpBIF0+Vl5XH8AQzSPc=
+			jCOI5vAsOavj/BdflfhdtDASUkOXuDE8JL1I4lknvMI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

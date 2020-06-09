@@ -1,0 +1,34 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)
+// swift-module-flags: -target arm64-apple-ios13.1 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name MVFDownloader
+import Foundation
+@_exported import MVFDownloader
+import Swift
+import Zip
+public struct MVFResult {
+  public let path: Foundation.URL
+  public let create_at: Swift.String
+  public var isCached: Swift.Bool
+}
+public enum MVFResultError : Swift.Error {
+  case InvalidHttpResponse
+  case Unauthorized
+  case NoMVFResponseData
+  case InvalidMVFResponse
+  case FailedToExtractFiles
+  case FailedToWriteToFileSystem
+  case InvalidDownloadData
+  case FailedToCreateRequest
+  case InvalidTimestamp
+  case UnknownError
+  public static func == (a: MVFDownloader.MVFResultError, b: MVFDownloader.MVFResultError) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+public class MVFDownloader {
+  required public init(key: Swift.String, secret: Swift.String, apiEndPoint: Swift.String = "https://api-gateway.mappedin.com/exports/mvf/1/bundle")
+  public func downloadFiles(venue: Swift.String, params: [Swift.String : Swift.String]? = nil, languageCode: Swift.String = "en", previousUpdatedAt: Swift.String? = nil, completion: @escaping (Swift.Result<MVFDownloader.MVFResult, MVFDownloader.MVFResultError>) -> Swift.Void)
+  @objc deinit
+}
