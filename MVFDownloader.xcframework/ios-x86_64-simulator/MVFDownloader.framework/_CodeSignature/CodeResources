@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/Zip.framework/Zip</key>
 		<data>
-		maVOCeR2HzYdYmi/8ogYK+iWaxM=
+		PNMKpBZevKvZ2mr3py+Zo+lXfdQ=
 		</data>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -28,25 +28,17 @@
 		<data>
 		XGIIXpuyuHsDCVB7mH8E2+XrArE=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		VXFPqyq9Y9q25slV7adfLEa9JTk=
-		</data>
-		<key>Modules/MVFDownloader.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		VXFPqyq9Y9q25slV7adfLEa9JTk=
-		</data>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		QYjkMtuoN7I0J9FFe8YZmuptafM=
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vpBcrd3nW7FdUtHBxR3OpiZXU9Y=
+		PS8FpYvbBbmdOZuxc6d+IpXHovI=
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		64GGtQ8y+nbOGJ/19ow8I4ai7A4=
+		4vZefjkzqaNlh6iNxEROeLBbjtQ=
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -54,11 +46,11 @@
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		vpBcrd3nW7FdUtHBxR3OpiZXU9Y=
+		PS8FpYvbBbmdOZuxc6d+IpXHovI=
 		</data>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		64GGtQ8y+nbOGJ/19ow8I4ai7A4=
+		4vZefjkzqaNlh6iNxEROeLBbjtQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,7 +70,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			idw0n0o7WkUBVoVBqCHN4D02HyFhPhLU+cC6NJrVuaw=
+			QUlPNtD8pjKKCtKKwKXLghgOmzu0WykojB5l7doYq64=
 			</data>
 		</dict>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
@@ -102,20 +94,6 @@
 			+xDw7ltTCCUvhkTgj9nhDiiA41FeRqtiGd2i6Cv/7hw=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Fr+hBKlmtAXbj7XbFT9PMOtH5tAS1y6dJWOg7ANE6Jc=
-			</data>
-		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Fr+hBKlmtAXbj7XbFT9PMOtH5tAS1y6dJWOg7ANE6Jc=
-			</data>
-		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
@@ -127,14 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C9LoevuUkz9jProh7dZml8UtRhid9G5F52Z/2H7Xxy0=
+			fEdf86+4al68KXbl4XxNhr2W16Qk/g1Ip1C0pQjq+dQ=
 			</data>
 		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xTxAk08UDM+quApOvdStl7VIc+xrwS4nl5MKgvykS4g=
+			0RG+78wYSp974EPXrqpKpMQJvHRmDSjClqPI4zjqJro=
 			</data>
 		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftdoc</key>
@@ -148,14 +126,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C9LoevuUkz9jProh7dZml8UtRhid9G5F52Z/2H7Xxy0=
+			fEdf86+4al68KXbl4XxNhr2W16Qk/g1Ip1C0pQjq+dQ=
 			</data>
 		</dict>
 		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xTxAk08UDM+quApOvdStl7VIc+xrwS4nl5MKgvykS4g=
+			0RG+78wYSp974EPXrqpKpMQJvHRmDSjClqPI4zjqJro=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
