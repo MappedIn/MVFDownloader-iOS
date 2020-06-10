@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "This is a library to download mvf files"
   s.homepage     = "http://mappedin.com"
+  s.module_name  = "MappedinVenueFormat"
   s.license      = { :type => 'Commercial', :file => 'LICENSE.md' }
   s.author       = { "Sean Lin" => "sean.lin@mappedin.ca" }
   s.platform     = :ios, '9.0'
