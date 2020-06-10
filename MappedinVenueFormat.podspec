@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MappedinVenueFormat"
-  s.version      = "1.0.0"
+  s.version      = "1.0.3"
   s.summary      = "This is a library to download mvf files"
   s.homepage     = "http://mappedin.com"
   s.module_name  = "MappedinVenueFormat"
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.dependency 'Zip', '1.1.0'
   s.swift_versions = '5.0.0'
-  s.vendored_frameworks = 'MappedinVenueFormat.*'
+  s.vendored_frameworks = 'MappedinVenueFormat.xcframework'
 end
