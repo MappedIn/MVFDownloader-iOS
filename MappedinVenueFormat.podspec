@@ -12,4 +12,5 @@ Pod::Spec.new do |s|
   s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/MappedinVenueFormat/"' }
   s.requires_arc = true
   s.dependency 'Zip', '1.1.0'
+  s.swift_versions = '5.0.0'
 end
