@@ -13,5 +13,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.dependency 'Zip', '1.1.0'
   s.swift_versions = '5.0.0'
-  s.vendored_frameworks = 'MVFDownloader-iOS/MappedinVenueFormat.xcframework'
+  s.source_files = 'MappedinVenueFormat.xcframework/*/MappedinVenueFormat.framework/Headers/*.{h,m,swift}'
+  s.vendored_frameworks = 'MappedinVenueFormat.xcframework'
 end
