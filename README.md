@@ -1,24 +1,22 @@
 # MVFDownloader
 
-[![CI Status](https://img.shields.io/travis/daniellewang-mi/MVFDownloader.svg?style=flat)](https://travis-ci.org/daniellewang-mi/MVFDownloader)
-[![Version](https://img.shields.io/cocoapods/v/MVFDownloader.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
-[![License](https://img.shields.io/cocoapods/l/MVFDownloader.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
-[![Platform](https://img.shields.io/cocoapods/p/MVFDownloader.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+[![Version](https://img.shields.io/cocoapods/v/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
+[![License](https://img.shields.io/cocoapods/l/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
+[![Platform](https://img.shields.io/cocoapods/p/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
 
 ## Requirements
 
+Cocoapods version 1.9 or higher
+
 ## Installation
 
-MVFDownloader is available through [CocoaPods](https://cocoapods.org). To install
+MappedinVenueFormat is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'MVFDownloader'
+pod 'MappedinVenueFormat'
 ```
+If using the framework on an iOS Simulator, manually include MappedinVenueFormat.xcframework under Frameworks and Libraries in the Project Settings.
 
 ## Author
 
@@ -26,4 +24,4 @@ daniellewang-mi, danielle.wang@mappedin.ca
 
 ## License
 
-MVFDownloader is available under the MIT license. See the LICENSE file for more info.
+MappedinVenueFormat is available under the MIT license. See the LICENSE file for more info.
