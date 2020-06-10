@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/Zip.framework/Zip</key>
 		<data>
-		KNP27e2LkP79PXdnhJ+3sfFtbTo=
+		PNMKpBZevKvZ2mr3py+Zo+lXfdQ=
 		</data>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -26,31 +26,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		e3PBjfhS5Jn8DfpYcRxuIlTnVp8=
+		XGIIXpuyuHsDCVB7mH8E2+XrArE=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		8EYHSfD5IcBao9GHeGbSPoilJfw=
+		QYjkMtuoN7I0J9FFe8YZmuptafM=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		8EYHSfD5IcBao9GHeGbSPoilJfw=
+		PS8FpYvbBbmdOZuxc6d+IpXHovI=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		C098SepP5UZaqyC+2VEQR9Gcc+4=
+		4vZefjkzqaNlh6iNxEROeLBbjtQ=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		rUYfHjPzYraSl3WcnU+FxGneU8c=
+		QYjkMtuoN7I0J9FFe8YZmuptafM=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		C098SepP5UZaqyC+2VEQR9Gcc+4=
+		PS8FpYvbBbmdOZuxc6d+IpXHovI=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		rUYfHjPzYraSl3WcnU+FxGneU8c=
+		4vZefjkzqaNlh6iNxEROeLBbjtQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9J4Uek/ePcKFR4taG+Tmlp2yZ5Z71vpeoJN55w5V3fU=
+			QUlPNtD8pjKKCtKKwKXLghgOmzu0WykojB5l7doYq64=
 			</data>
 		</dict>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
@@ -94,46 +94,46 @@
 			+xDw7ltTCCUvhkTgj9nhDiiA41FeRqtiGd2i6Cv/7hw=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qd8zv07uRgBNvO4fyTikkPfo7rxmsun8GLNRvEiU0NM=
+			OcMPs+CTckpf2qDx9bnL6fcfqVStxO0dEEN93dFJJ+Q=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qd8zv07uRgBNvO4fyTikkPfo7rxmsun8GLNRvEiU0NM=
+			fEdf86+4al68KXbl4XxNhr2W16Qk/g1Ip1C0pQjq+dQ=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5jRLnvNTOkedKWFbyOHePKz0na0/pf+nOHTe1voqymA=
+			0RG+78wYSp974EPXrqpKpMQJvHRmDSjClqPI4zjqJro=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Q/GLEQC+LwGi4gj/gCjlL95HpBIF0+Vl5XH8AQzSPc=
+			OcMPs+CTckpf2qDx9bnL6fcfqVStxO0dEEN93dFJJ+Q=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5jRLnvNTOkedKWFbyOHePKz0na0/pf+nOHTe1voqymA=
+			fEdf86+4al68KXbl4XxNhr2W16Qk/g1Ip1C0pQjq+dQ=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Q/GLEQC+LwGi4gj/gCjlL95HpBIF0+Vl5XH8AQzSPc=
+			0RG+78wYSp974EPXrqpKpMQJvHRmDSjClqPI4zjqJro=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
