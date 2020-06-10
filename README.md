@@ -1,8 +1,8 @@
 # MappedinVenueFormat
 
-[![Version](https://img.shields.io/cocoapods/v/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
-[![License](https://img.shields.io/cocoapods/l/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
-[![Platform](https://img.shields.io/cocoapods/p/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
+[![Version](https://img.shields.io/cocoapods/v/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MappedinVenueFormat)
+[![License](https://img.shields.io/cocoapods/l/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MappedinVenueFormat)
+[![Platform](https://img.shields.io/cocoapods/p/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MappedinVenueFormat)
 
 ## Requirements
 
