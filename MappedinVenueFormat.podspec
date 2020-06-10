@@ -11,7 +11,5 @@ Pod::Spec.new do |s|
   s.library      = 'z'
   s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/MappedinVenueFormat/"' }
   s.requires_arc = true
-  s.source_files = 'MappedinVenueFormat.xcframework/Headers/*.{h}'
-  s.vendored_frameworks = 'MappedinVenueFormat.xcframework'
   s.dependency 'Zip', '1.1.0'
 end
