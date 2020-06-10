@@ -1,4 +1,4 @@
-# MVFDownloader
+# MappedinVenueFormat
 
 [![Version](https://img.shields.io/cocoapods/v/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
 [![License](https://img.shields.io/cocoapods/l/MappedinVenueFormat.svg?style=flat)](https://cocoapods.org/pods/MVFDownloader)
