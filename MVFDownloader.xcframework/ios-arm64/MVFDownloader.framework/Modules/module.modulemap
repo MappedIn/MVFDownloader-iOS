@@ -1,4 +1,0 @@
-framework module MappedinVenueFormat {
-  header "MappedinVenueFormat-Swift.h"
-  requires objc
-}
