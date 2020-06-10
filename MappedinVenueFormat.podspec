@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '9.0'
   s.source       = { :git => "https://github.com/MappedIn/MVFDownloader-iOS.git", :tag => s.version.to_s }
   s.library      = 'z'
-  s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/MVFDownloader/"' }
+  s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/MappedinVenueFormat/"' }
   s.requires_arc = true
   s.source_files = 'MappedinVenueFormat.xcframework/Headers/*.{h}'
   s.vendored_frameworks = 'MappedinVenueFormat.xcframework'
