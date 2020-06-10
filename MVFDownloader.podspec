@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.library      = 'z'
   s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/MVFDownloader/"' }
   s.requires_arc = true
-  s.source_files = 'MVFDownloader.xcframework/*/MVFDownloader.framework/Headers/*.{h,m,swift}'
+  s.source_files = 'MVFDownloader.xcframework/Headers/*.{h}'
   s.vendored_frameworks = 'MVFDownloader.xcframework'
   s.dependency 'Zip', '1.1.0'
 end
