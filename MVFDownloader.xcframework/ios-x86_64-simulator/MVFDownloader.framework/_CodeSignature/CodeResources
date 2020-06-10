@@ -16,45 +16,45 @@
 		<data>
 		Zkb0Y0xIQoy3L6HX5jKbWkFvOTw=
 		</data>
-		<key>Headers/MVFDownloader-Swift.h</key>
-		<data>
-		sgyR1s0wA+6sgsA919TL2gHioR0=
-		</data>
 		<key>Headers/MVFDownloader.h</key>
 		<data>
 		k+f0PlUNbKiZbOtB+bgVYOgzuaM=
 		</data>
+		<key>Headers/MappedinVenueFormat-Swift.h</key>
+		<data>
+		aDBZxZbePDTaGUVr2WCSsEjSqVc=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		XGIIXpuyuHsDCVB7mH8E2+XrArE=
+		Ka6SDg+1SSfy8n1B0yC6nB4tZz8=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QYjkMtuoN7I0J9FFe8YZmuptafM=
+		1W+6tRsP8F66zxG7ktTi/YFirQo=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PS8FpYvbBbmdOZuxc6d+IpXHovI=
+		o8r8EGe3a53XtukDIazrsIDGDaM=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4vZefjkzqaNlh6iNxEROeLBbjtQ=
+		NOkbxmerLZtGlVA1zueDYeVKZ1I=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		QYjkMtuoN7I0J9FFe8YZmuptafM=
+		1W+6tRsP8F66zxG7ktTi/YFirQo=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftinterface</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		PS8FpYvbBbmdOZuxc6d+IpXHovI=
+		o8r8EGe3a53XtukDIazrsIDGDaM=
 		</data>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		4vZefjkzqaNlh6iNxEROeLBbjtQ=
+		NOkbxmerLZtGlVA1zueDYeVKZ1I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		hbzY8vDiQOPWiO9oUzRT6OpvkmQ=
+		V7nlSdzKLUkcrkL9ACwkToLJfSU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -80,13 +80,6 @@
 			NkZ5HB//N8GTrVkKh12Rci93k5iES1UOHji5TVRrf28=
 			</data>
 		</dict>
-		<key>Headers/MVFDownloader-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YuCT1mNWzg+YL+Cfct36K3qCebzD/qADkM0UCLhlLZ0=
-			</data>
-		</dict>
 		<key>Headers/MVFDownloader.h</key>
 		<dict>
 			<key>hash2</key>
@@ -94,53 +87,60 @@
 			+xDw7ltTCCUvhkTgj9nhDiiA41FeRqtiGd2i6Cv/7hw=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Headers/MappedinVenueFormat-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OcMPs+CTckpf2qDx9bnL6fcfqVStxO0dEEN93dFJJ+Q=
+			CAMEhg+be0YRkPfShtY2Krw6ks5aivRuGEOuaM7dmk0=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEdf86+4al68KXbl4XxNhr2W16Qk/g1Ip1C0pQjq+dQ=
+			PSPbcJDPhAksLUz+ChnRQ7VoItdd75vj5YcGSTfwELI=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0RG+78wYSp974EPXrqpKpMQJvHRmDSjClqPI4zjqJro=
+			o4PapsL3QUd+9cbRViTGx5bc0AVn8i5V6D93IHhHUY8=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OcMPs+CTckpf2qDx9bnL6fcfqVStxO0dEEN93dFJJ+Q=
+			6kkdE20eqYiamGos615aed7mJCrozf3+2sT+lyKIF1g=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftinterface</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEdf86+4al68KXbl4XxNhr2W16Qk/g1Ip1C0pQjq+dQ=
+			PSPbcJDPhAksLUz+ChnRQ7VoItdd75vj5YcGSTfwELI=
 			</data>
 		</dict>
-		<key>Modules/MVFDownloader.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0RG+78wYSp974EPXrqpKpMQJvHRmDSjClqPI4zjqJro=
+			o4PapsL3QUd+9cbRViTGx5bc0AVn8i5V6D93IHhHUY8=
+			</data>
+		</dict>
+		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6kkdE20eqYiamGos615aed7mJCrozf3+2sT+lyKIF1g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GwcqFKqC9r9evyVx6fBi2xaSFcDkhiXRQctfCq5dmw0=
+			Cz6IQ0hY7uiX/zhxc34w8wxQ6mQNXTn+kMCawVtraVo=
 			</data>
 		</dict>
 	</dict>
