@@ -7,6 +7,8 @@ import Swift
 import Zip
 public struct MVFResult {
   public let path: Foundation.URL
+  public let create_at: Swift.String
+  public var isCached: Swift.Bool
 }
 public enum MVFResultError : Swift.Error {
   case InvalidHttpResponse
@@ -26,8 +28,8 @@ public enum MVFResultError : Swift.Error {
   public func hash(into hasher: inout Swift.Hasher)
 }
 public class MVFDownloader {
-  required public init(key: Swift.String, secret: Swift.String, apiEndPoint: Swift.String = "https://api-gateway.mappedin.com/exports/mvf/1/bundle", cachingEnabled: Swift.Bool = false)
-  public func downloadFiles(venue: Swift.String, params: [Swift.String : Swift.String]? = nil, languageCode: Swift.String = "en", previousTimestamp: Swift.String = "2000-01-01T16:20:51.605Z", completion: @escaping (Swift.Result<MappedinVenueFormat.MVFResult, MappedinVenueFormat.MVFResultError>) -> Swift.Void)
+  required public init(key: Swift.String, secret: Swift.String, apiEndPoint: Swift.String = "https://api-gateway.mappedin.com/exports/mvf/1/bundle")
+  public func downloadFiles(venue: Swift.String, params: [Swift.String : Swift.String]? = nil, languageCode: Swift.String = "en", previousUpdatedAt: Swift.String? = nil, completion: @escaping (Swift.Result<MappedinVenueFormat.MVFResult, MappedinVenueFormat.MVFResultError>) -> Swift.Void)
   @objc deinit
 }
 extension MappedinVenueFormat.MVFResultError : Swift.Equatable {}

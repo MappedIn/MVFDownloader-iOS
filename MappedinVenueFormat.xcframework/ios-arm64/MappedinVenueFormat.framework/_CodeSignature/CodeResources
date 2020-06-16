@@ -6,15 +6,15 @@
 	<dict>
 		<key>Frameworks/Zip.framework/Info.plist</key>
 		<data>
-		S8jzHfrhPg0/lcqYeskIHrtg0UQ=
+		3pkYkfd9Y7tkBnamog+Pv0PNLh0=
 		</data>
 		<key>Frameworks/Zip.framework/Zip</key>
 		<data>
-		JMIGZE+3h8vIgvaXBUvUjZxliA4=
+		XOfp1IkC7BRjESKcHRKuY26mBM4=
 		</data>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
 		<data>
-		eswslFLJG2sbDEG698QBJN6GE64=
+		Zkb0Y0xIQoy3L6HX5jKbWkFvOTw=
 		</data>
 		<key>Headers/MappedinVenueFormat-Swift.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Headers/MappedinVenueFormat.h</key>
 		<data>
-		YEIgc+ta5Vd5Ic/w5rz5YKcGInU=
+		lhp8IegfUPvGe2L/biAQVNuOI6E=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		49m+V68ShvyOn0i8FoRp0V2Mv8E=
+		Ntv6KqQ7py6COD3U6DXTbeB4W6E=
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		OSiIX6PZX3FaPg3TB+qgaI3KfuU=
+		p8BF6WqEw7wFPlcGT0tPJxabqW0=
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0BWuaq8ldJ2x0PvRL5URrU832zc=
+		kmagikR24ApyQM5rrKTwz5burwU=
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		OSiIX6PZX3FaPg3TB+qgaI3KfuU=
+		p8BF6WqEw7wFPlcGT0tPJxabqW0=
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		0BWuaq8ldJ2x0PvRL5URrU832zc=
+		kmagikR24ApyQM5rrKTwz5burwU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,21 +63,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RtFKMSgdmRHgPqjcDiOWPgJgIR1JjaXG/5TstmGMEbk=
+			rjtSesUETQhhBk/Hu04wPmlQsK9pEYWVao6zASxhhp8=
 			</data>
 		</dict>
 		<key>Frameworks/Zip.framework/Zip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0q0H/XAeKuiMPKpMrOrm9d2wy3cOiWonjEF17gufTfs=
+			hdCwzBYtDbUD1w++UKHKis9/2/x/l4wxaIdN2shaoUA=
 			</data>
 		</dict>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WB1soROszJuvwJ8KwO2YHDabN0vJCqTks1B0lhwZTd4=
+			NkZ5HB//N8GTrVkKh12Rci93k5iES1UOHji5TVRrf28=
 			</data>
 		</dict>
 		<key>Headers/MappedinVenueFormat-Swift.h</key>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KBkwrVQ3TiMfd0CV1UnybE/EbvuXWfXXykXqUUuQOkQ=
+			CCvTw8lbaZpYGoITY+sUdbtpz2IKVLOG0oYa3n4XK7g=
 			</data>
 		</dict>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -105,14 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wrv+rHebF0t2QztdEo5CuIhfh6UAIkL6yt2Wq+DzqgI=
+			coU3G5F8Pj6REvO+RBErGUOCKtnE60RuV9aQo7WHWnI=
 			</data>
 		</dict>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Fd2OYSHfgZdOBOTemK0T1pdvh3NqVDfoVch8mjH3xo=
+			adXCGAOy5aGUZsUNa+td43jYRIDgtXYUPivxRFsASdM=
 			</data>
 		</dict>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64.swiftdoc</key>
@@ -126,14 +126,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wrv+rHebF0t2QztdEo5CuIhfh6UAIkL6yt2Wq+DzqgI=
+			coU3G5F8Pj6REvO+RBErGUOCKtnE60RuV9aQo7WHWnI=
 			</data>
 		</dict>
 		<key>Modules/MappedinVenueFormat.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Fd2OYSHfgZdOBOTemK0T1pdvh3NqVDfoVch8mjH3xo=
+			adXCGAOy5aGUZsUNa+td43jYRIDgtXYUPivxRFsASdM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
