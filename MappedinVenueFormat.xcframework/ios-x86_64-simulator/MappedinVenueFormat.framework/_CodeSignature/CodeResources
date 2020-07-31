@@ -6,15 +6,15 @@
 	<dict>
 		<key>Frameworks/Zip.framework/Info.plist</key>
 		<data>
-		S8jzHfrhPg0/lcqYeskIHrtg0UQ=
+		WXXw1xe4yqCJJPVQkY8R4SNgO/8=
 		</data>
 		<key>Frameworks/Zip.framework/Zip</key>
 		<data>
-		Wye6abl7u+CUXwIeL80JYga3esY=
+		dyyKN/ZvsmJA1ZxmRZdNW2m+yq4=
 		</data>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
 		<data>
-		eswslFLJG2sbDEG698QBJN6GE64=
+		zRe65+YF9JRuAyo6xr5mVdZaGJ8=
 		</data>
 		<key>Headers/MappedinVenueFormat-Swift.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nxiKJNRugf8pmq+N2KJSVGx3lj8=
+		45Mwjl6QtVURkC+hlsYiss0rYhc=
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QoDM/4Eg6xgbQ9+ckmxgcsK/T1c=
+		M4fiH1Fd7lCb77JlCNbQO0Q18oA=
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		QoDM/4Eg6xgbQ9+ckmxgcsK/T1c=
+		M4fiH1Fd7lCb77JlCNbQO0Q18oA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,21 +63,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RtFKMSgdmRHgPqjcDiOWPgJgIR1JjaXG/5TstmGMEbk=
+			GjYzM+xMv4wzYO9yLLt85f9V0lqClyf92E0UZJQhgLc=
 			</data>
 		</dict>
 		<key>Frameworks/Zip.framework/Zip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FVNHCUaIsE4nohIEwhWoIzDbhSN3v2y0sXy82DpRGdA=
+			fKcOfluolGWqtsxWNSmfNwRY3THLciP2PRLV7qcaQwE=
 			</data>
 		</dict>
 		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WB1soROszJuvwJ8KwO2YHDabN0vJCqTks1B0lhwZTd4=
+			DlL97xtMhrPF6tiw9eCnVwE9G0j098VnUhQjVonhDG8=
 			</data>
 		</dict>
 		<key>Headers/MappedinVenueFormat-Swift.h</key>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jMBif2iZmB6dE5xYUq6xtoftbDqhlq81LiTEhKuhT7Y=
+			KvPeEIdF/Au8aIAAzpW2vt46Fk2oNm3iw2ETZQw9Djs=
 			</data>
 		</dict>
 		<key>Modules/MappedinVenueFormat.swiftmodule/x86_64.swiftdoc</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jMBif2iZmB6dE5xYUq6xtoftbDqhlq81LiTEhKuhT7Y=
+			KvPeEIdF/Au8aIAAzpW2vt46Fk2oNm3iw2ETZQw9Djs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
