@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "MappedinVenueFormat"
-  s.version      = "1.0.6"
+  s.version      = "1.0.7"
   s.summary      = "This is a library to download mvf files"
-  s.homepage     = "http://mappedin.com"
+  s.homepage     = "https://mappedin.com"
   s.module_name  = "MappedinVenueFormat"
   s.license      = { :type => 'Commercial', :file => 'LICENSE' }
   s.author       = { "Sean Lin" => "sean.lin@mappedin.ca" }
@@ -15,3 +15,4 @@ Pod::Spec.new do |s|
   s.swift_versions = '5.0.0'
   s.vendored_frameworks = 'MappedinVenueFormat.xcframework'
 end
+
