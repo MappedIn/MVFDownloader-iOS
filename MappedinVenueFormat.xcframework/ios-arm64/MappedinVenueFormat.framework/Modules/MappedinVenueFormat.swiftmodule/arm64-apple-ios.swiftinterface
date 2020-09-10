@@ -28,7 +28,7 @@ public enum MVFResultError : Swift.Error {
   public func hash(into hasher: inout Swift.Hasher)
 }
 public class MVFDownloader {
-  required public init(key: Swift.String, secret: Swift.String, apiEndPoint: Swift.String = "https://api-gateway.mappedin.com/exports/mvf/1/bundle")
+  required public init(key: Swift.String, secret: Swift.String, apiEndPoint: Swift.String = "https://api-gateway.mappedin.com/exports/smvf/1/bundle")
   public func downloadFiles(venue: Swift.String, params: [Swift.String : Swift.String]? = nil, languageCode: Swift.String = "en", previousUpdatedAt: Swift.String? = nil, completion: @escaping (Swift.Result<MappedinVenueFormat.MVFResult, MappedinVenueFormat.MVFResultError>) -> Swift.Void)
   @objc deinit
 }

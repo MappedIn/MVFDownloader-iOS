@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MappedinVenueFormat"
-  s.version      = "1.0.7"
+  s.version      = "1.0.8"
   s.summary      = "This is a library to download mvf files"
   s.homepage     = "https://mappedin.com"
   s.module_name  = "MappedinVenueFormat"
